@@ -1,0 +1,27 @@
+---
+tags: ['minjie', 'Minjie Shen', 'referral', 'Dispatch']
+---
+
+- ##### TL;DR
+	- Quiet, smart, 
+- ##### Info
+	- Personal Notes
+		- Full Name: Minjie Shen
+		- Email: [minjie.shen@opcity.com](mailto:minjie.shen@opcity.com)
+		- Level: T3
+		- Joined:
+	- Contracting
+		- [Contracting Discussion Notes](https://docs.google.com/document/d/1pl9HHvdCpl9wFRjOCtTFqg1ZPeKLzqXl0TcikvQcjys/edit#bookmark=id.2jspahdsweyi)
+	- Observations
+		- Mine
+			- Don't know her well
+		- [[Daniel]]
+			- Might be the smartest developer we have
+		- [[Jennie]]
+			- One-on-ones were easy and often went the whole 30 minutes
+- ##### Green Card
+	- What can I do to help with getting Minjie her green card?
+- ##### Observations
+- ##### Documents
+	- [Minjie / Chris One-On-Ones](https://docs.google.com/document/d/1pl9HHvdCpl9wFRjOCtTFqg1ZPeKLzqXl0TcikvQcjys/edit#)
+	- [Minjie Gap Analysis - FY2023](https://docs.google.com/spreadsheets/d/1XF2YjdFKhWfPPqUAjTVTPlUftd02mE4byaWqktvASM8/edit#gid=676488454)

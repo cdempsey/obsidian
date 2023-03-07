@@ -1,0 +1,20 @@
+{
+  "snippets_file": "dtsu : Dispatch team stand-up\nffu : FocusFire team stand-up\nooo : One-on-one with $end$\nprr : Reviewed the [$end$]() PR in opcity\nptp : Pushed the [$end$]() PR to Production\npup : Put up the [$end$]() PR in opcity\nswo : Started working on [$end$]()",
+  "snippets": [
+    "dtsu : Dispatch team stand-up",
+    "ffu : FocusFire team stand-up",
+    "ooo : One-on-one with $end$",
+    "prr : Reviewed the [$end$]() PR in opcity",
+    "ptp : Pushed the [$end$]() PR to Production",
+    "pup : Put up the [$end$]() PR in opcity",
+    "swo : Started working on [$end$]()"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": false,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

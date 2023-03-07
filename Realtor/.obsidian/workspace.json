@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "8bd61dd04ff9a7c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ed21bff9e8de2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f681791600aaae6d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3254e6fbd1c6cd40",
+    "type": "split",
+    "children": [
+      {
+        "id": "70110166b8bec048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a2c3eecab0f73e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c60842bbec65cf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Next Gen Dispatch\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15100d9d429b84ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.50390243530273,
+    "collapsed": true
+  },
+  "right": {
+    "id": "84eb7aa0f06b821b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b9a195be09e72e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57374c3037482fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e953ce72bf515ac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bb0325525c513f34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18ca38997076508c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a011f59fefc9f8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "f681791600aaae6d",
+  "lastOpenFiles": [
+    "Projects/Engineer Evaluation/How Do You Measure a Good Software Engineer?.md",
+    "Projects/Engineer Evaluation/How to gauge where an engineer is technically?.md",
+    "Areas/Stand-Up/2023/03 - March/2023-03-07.md",
+    "Projects/Engineer Evaluation/How to Measure and Evaluate Performance of your Engineers.md",
+    "Projects/Engineer Evaluation/ChatGPT Answer.md",
+    "Templates/Intermediate Packet.md",
+    "Templates/Generic Note.md",
+    "Projects/Engineer Evaluation",
+    "Projects/Broadcast Dispatch/MVIP Epic Planning.md",
+    "Projects/Broadcast Dispatch/Inbox.md",
+    "Projects/Broadcast Dispatch/MVIP Epics.md",
+    "Projects/Broadcast Dispatch/Broadcast Dispatch.md",
+    "Projects/Next Gen Dispatch/Inbox.md",
+    "Projects/Next Gen Dispatch/Next Gen Dispatch.md",
+    "Projects/Inbox.md",
+    "Areas/Stand-Up/2023/03 - March/2023-03-06.md",
+    "Areas/Direct Reports/Akash/Akash.md",
+    "Areas/Stand-Up/2023/03 - March/2023-03-03.md",
+    "Projects/Next Gen Dispatch/Ruhul's Thoughts on the Future of Dispatch.md",
+    "Areas/People/Ruhul.md",
+    "Areas/Direct Reports/Yang",
+    "Areas/Direct Reports/Akash",
+    "Areas/Direct Reports/Carmen",
+    "Areas/Direct Reports/Minjie/FY23 Action Book.md",
+    "Areas/Direct Reports/Minjie/Minjie.md",
+    "Areas/Direct Reports/Minjie",
+    "Areas/Direct Reports/Emily/FY23 Action Book.md",
+    "Projects/Dynamic Pricing/Dynamic Pricing.md",
+    "Areas/Stand-Up/2023/03 - March/2023-03-02.md",
+    "Areas/Direct Reports/Emily/Emily.md",
+    "Areas/Direct Reports/Emily",
+    "Resources/Inbox.md",
+    "Areas/Direct Reports",
+    "Projects/Dispatch Decouple",
+    "Projects/Dynamic Pricing",
+    "Projects/Next Gen Dispatch"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "8bd61dd04ff9a7c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c0dce23485731b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stand-Up/2022/Current/2022-10-18.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3254e6fbd1c6cd40",
+    "type": "split",
+    "children": [
+      {
+        "id": "70110166b8bec048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71a2c3eecab0f73e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c60842bbec65cf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Long",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15100d9d429b84ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389,
+    "collapsed": true
+  },
+  "right": {
+    "id": "84eb7aa0f06b821b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b9a195be09e72e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57374c3037482fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stand-Up/2022/Current/2022-10-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e953ce72bf515ac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stand-Up/2022/Current/2022-10-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bb0325525c513f34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18ca38997076508c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stand-Up/2022/Current/2022-10-18.md"
+              }
+            }
+          },
+          {
+            "id": "4a011f59fefc9f8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432,
+    "collapsed": true
+  },
+  "active": "7c0dce23485731b2",
+  "lastOpenFiles": [
+    "Stand-Up/2022/Current/2022-10-07.md",
+    "Stand-Up/2022/Current/2022-10-06.md",
+    "My Work.md",
+    "Stand-Up/2022/Current/2022-10-05.md",
+    "Stand-Up/2022/Current/2022-10-04.md",
+    "Stand-Up/2022/Current/2022-10-03.md",
+    "Smart Notes/Durable/FF-1350.md",
+    "Stand-Up/2022/September/2022-09-30.md",
+    "Stand-Up/2022/September/2022-09-29.md",
+    "Smart Notes/Permanent/FocusFire/Development/Testing.md"
+  ]
+}

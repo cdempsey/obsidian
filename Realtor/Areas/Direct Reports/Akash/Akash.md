@@ -1,0 +1,37 @@
+---
+tags: ['akash', 'Akash Maitra', 'referral', 'Dispatch']
+---
+
+- ##### TL;DR
+	- Quiet, unfocused, needs mentoring, not a good candidate for tech lead role
+- ##### Info
+	- Personal Notes
+		- Full Name: Akash Maitra
+		- Email: [akash.maitra@move.com](mailto:akash.maitra@move.com)
+		- Level: T4
+		- Joined:
+	- Contracting
+		- What areas would you like my support with?  
+		- How would you like to receive feedback? How about praise?  
+		- How might I know if the support I'm offering isn't going well or helping?  
+		- How confidential is the content of our one-on-ones?
+		- What could be a challenge for us working together?
+		- What are you feeling positive about working on the Dispatch team?
+		- What do you feel is a challenge about working on the Dispatch team?
+	- Observations
+		- Mine
+			- Haven't interacted with him much
+		- [[Daniel]]
+			- Not focused; chases too many threads of thought
+			- Might be overleveled based on his performance
+			- Not impressed with his technical chops
+		- [[Justin]]
+			- Not focused; chases too many threads of thought
+			- Not a very good developer
+- ##### Observations
+	- 2023-02
+		- +++ Took the initiative to create a one-on-one document for us to use
+		- +++ Provided [links to Dispatch documents](https://moveinc.slack.com/archives/D038W1JTPHB/p1676655143939049)
+- ##### Documents
+	- [1-1 Notes Akash/Chris](https://docs.google.com/spreadsheets/d/1QhfKqUIzjCKPvqSQJg4NOqMjkvozniD_Ul4Oqvd5YZ0/edit#gid=0)
+	- [Akash Gap Analysis - FY2023](https://docs.google.com/spreadsheets/d/10LnPMHWwZWBIzXQdYJO1V6gU13ehSELebtx3LRtMT6M/edit#gid=1155184713)

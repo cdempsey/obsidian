@@ -1,0 +1,27 @@
+---
+tags: ['carmen', 'Carmen Galicia Alvarez', 'referral', 'Dispatch']
+---
+
+- ##### TL;DR
+	- Strong developer, good communicator, suffers from imposter syndrome
+- ##### Info
+	- Personal Notes
+		- Full Name: Carmen Galicia Alvarez
+		- Email: [carmen.galicia@move.com](mailto:carmen.galicia@move.com)
+		- Level: T3
+		- Joined:
+	- Contracting
+		- What areas would you like my support with?  
+		- How would you like to receive feedback? How about praise?  
+		- How might I know if the support I'm offering isn't going well or helping?  
+		- How confidential is the content of our one-on-ones?
+		- What could be a challenge for us working together?
+		- What are you feeling positive about working on the Dispatch team?
+		- What do you feel is a challenge about working on the Dispatch team?
+	- Observations
+		- Mine
+			- Worked with her at BP3
+			- Works hard
+			- Strongest and most well-rounded tech lead candidate
+- ##### Documents
+	- [Carmen Gap Analysis - FY23](https://docs.google.com/spreadsheets/d/1zfhri9_upbLB5elA4sPuafAAzZHEKz1-5bjg2gpbdBs/edit#gid=652698634)
